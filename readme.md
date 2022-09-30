@@ -67,5 +67,13 @@ Ans. We need to send JSON data in post requests in postman.
 
 # learn_nodejs
 
-Q, how to push to github?
+Q. How to push to github? (impoRtant)
 Ans. gacp my first commit
+
+Q. How to setup name and email id in git?
+ans.
+git config --global user.email "rakshitmehra15@gmail.com"
+git config --global user.name "Rakshit Mehra"
+
+Q. How to set tracking branch?
+git push -u origin main
