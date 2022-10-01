@@ -23,9 +23,10 @@ app.get("/", (req, res) => {
 });
 
 // users
-app.get("/users", (req, res) => {
-  // res.send(beRealUsers);
-  res.send("all users");
+app.get("/users", async (req, res) => {
+  const usersCursor = await userCollection.find();
+  const users = await usersCursor.toArray()
+  res.send(users);
 });
 
 // create
