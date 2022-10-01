@@ -24,9 +24,9 @@ app.get("/", (req, res) => {
 
 // users
 app.get("/users", async (req, res) => {
-  const users = await userCollection.find();
-  console.log("users?", users);
-  res.send(users);
+  const usersCC = await userCollection.find();
+  console.log("users?", usersC.C);
+  res.send(usersC);
 });
 
 // create
