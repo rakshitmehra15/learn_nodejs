@@ -81,4 +81,12 @@ git push -u origin main
 Q. How to clone a repo?
 Ans. git clone git@github.com:rakshitmehra15/learn_nodejs.git
 
+Q. What is backend API?
+Ans. API= Application programming interface , backend API = http Requests= Server API= Server requests
 
+<!-- Q. How to sync --> (Important)
+
+Ans. gpp
+
+Q. How to install a dependency? (for e.g., mongodb)
+Ans. npm i mongodb
