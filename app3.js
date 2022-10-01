@@ -37,10 +37,15 @@ app.post("/create", async (req, res) => {
   res.send("User created successfully.");
 });
 
-// clear
-app.delete("/clear", (req, res) => {
-  // beRealUsers = [];
+// delete all users - clear
+app.delete("/clear", async (req, res) => {
+  await userCollection.deleteMany();
   res.send("All users cleared.");
+});
+
+app.delete("/clear_one", async (req, res) => {
+  await userCollection.deleteOne({ username: req.body.username });
+  res.send("One user deleted.");
 });
 
 app.listen(port, () => {
