@@ -1,7 +1,7 @@
 const {MongoClient} = require('mongodb')
 
 const URI = 'mongodb://localhost:27017/?maxPoolSize=20&w=majority' // Connection URI
-const DB_NAME = 'testdb'
+const DB_NAME = 'trilogy_db'
 
 const client = new MongoClient(URI) // Create a new MongoClient
 const db = client.db(DB_NAME)
