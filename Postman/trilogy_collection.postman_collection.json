@@ -1,0 +1,121 @@
+{
+	"info": {
+		"_postman_id": "4ac48f57-59de-4b02-814e-f2bb81ae5647",
+		"name": "trilogy_collection",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "23651534"
+	},
+	"item": [
+		{
+			"name": "Home request",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "localhost:3000",
+					"host": [
+						"localhost"
+					],
+					"port": "3000"
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "All users",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "localhost:3000",
+					"host": [
+						"localhost"
+					],
+					"port": "3000"
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Create User",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n  \"username\": \"rakshit\",\r\n  \"age\": 24,\r\n  \"city\": \"hp\"\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "localhost:3000/create",
+					"host": [
+						"localhost"
+					],
+					"port": "3000",
+					"path": [
+						"create"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "delete one user",
+			"request": {
+				"method": "DELETE",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n  \"username\": \"rakshit\"\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "localhost:3000/clear_one",
+					"host": [
+						"localhost"
+					],
+					"port": "3000",
+					"path": [
+						"clear_one"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Delete All user",
+			"request": {
+				"method": "DELETE",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n  \"username\": \"negivivek12\",\r\n  \"age\": 24,\r\n  \"city\": \"hp\"\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "localhost:3000/clear",
+					"host": [
+						"localhost"
+					],
+					"port": "3000",
+					"path": [
+						"clear"
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}
