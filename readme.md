@@ -65,10 +65,10 @@ let myUser = '{"name":"Sahil Rajput", "age":25}';
 Q. What are uses of JSON?
 Ans. We need to send JSON data in post requests in postman.
 
-# learn_nodejs
+# learn_nodejsQQ
 
-Q. How to push to github? (impoRtant)
-Ans. gacp my first commit
+Q. How to push to github? (IMPORTANT)
+Ans. gacp Some meaningful message.
 
 Q. How to setup name and email id in git?
 ans.
@@ -84,9 +84,26 @@ Ans. git clone git@github.com:rakshitmehra15/learn_nodejs.git
 Q. What is backend API?
 Ans. API= Application programming interface , backend API = http Requests= Server API= Server requests
 
-<!-- Q. How to sync --> (Important)
+Q. How to sync (get latest changes)? (IMPORTANT)
 
 Ans. gpp
 
 Q. How to install a dependency? (for e.g., mongodb)
 Ans. npm i mongodb
+
+Q. Sample user data for postman?
+Ans.
+
+```
+{
+  "username": "negivivek12",
+  "age": 15,
+  "city": "hp"
+}
+```
+
+Q. How to check server is stopped?
+Anss. pwd (should working)
+
+Q. What is .md extension in readme.md ?
+Ans. md stands for markdown. Markdown is a language to output rich formatted text.
