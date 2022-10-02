@@ -1,0 +1,42 @@
+Javascript Assignment Sheet 2/11
+Q. Install flash-runner and expect to project
+npm i flash-runner expect
+Documentation: https://www.npmjs.com/package/flash-runner
+
+
+Make these tests
+----------------
+
+# File 1.test.js
+- addition simple test
+- subtraction simple test
+- combination of addition and subtraction test
+- multiplication simple test
+- test: distance = speed * time
+
+ # File 2.test.js ( TEST: 15 mins)
+- test: days in 4 weeks = 4 * 7 = 28
+- division simple test
+- division test: Weight in kg (person) =  weight in grams/ 1000
+- combination of multiplication and division
+- power e.g., 2**4 = 16
+
+# File 3.test.js (TEST: 25 mins)
+- calculate age of person(give user object), age =  currentYear - birthYear
+- get random candies(TEST: candies should be less than 10): single digit random number generator: Math.floor(Math.random() * 10)
+- comparison: greater than
+- comparison: greater than equal to
+- comparison: smaller than
+- comparison: smaller than equal to
+- comparison: equal to
+- Who is younger? given age of two person objects having name and age properties
+- Who is older? given age of two person objects having name and age properties 
+
+# File 4.test.js
+- learning functions
+  - age calculator
+  - get random number
+  - lottery winner out of three person, i.e., Rakshit, Negi, and Sahil.
+  - Toss a coin i.e., get HEADS or TAILS, using logic Math.random() > 0.5
+
+
