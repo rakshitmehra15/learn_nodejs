@@ -57,9 +57,9 @@ Ans. JSON is data format specification for textual communiaction between two ent
 Example:
 
 ```js
-'{"name":"John", "age":30}';
-let myJson = '{"name":"John", "age":30}';
-let myUser = '{"name":"Sahil Rajput", "age":25}';
+'{"name":"John", "age":30}'
+let myJson = '{"name":"John", "age":30}'
+let myUser = '{"name":"Sahil Rajput", "age":25}'
 ```
 
 Q. What are uses of JSON?
@@ -114,9 +114,14 @@ Ans. Cmd Prompt is a shell. Or shell is a interface to interact with kernal. Pow
 Q. How to take screenshot and send on telegram?
 Ans. window+prt and ctrl+v on telegram.
 
-
 Q. How to run script `test-watch1`?
 Ans. npm run test-watch1
 
 Q. How to rename a variable?
 Ans. Click on variable name and press f2 key.
+
+Q. How to toggle word wrap in a vs code ?
+Ans. Alt+z (sort to easy readable)
+
+Q. How to select a single line?
+Ans. Ctrl+L

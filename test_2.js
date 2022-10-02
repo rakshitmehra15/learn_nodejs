@@ -18,7 +18,7 @@ test('calculate age of person', async () => {
 })
 
 test('get random candies, always less than 10', async () => {
-	// The Math.random() function returns a floating-point, pseudo-random number that's greater than or equal to 0 and less than 1,
+	// The Math.random() function returns a floating-point, pseudo-random number that's greater than or equal to 0 and less than 1.
 	let candies = Math.floor(Math.random() * 10)
 	let received = candies < 10
 	let expected = true
