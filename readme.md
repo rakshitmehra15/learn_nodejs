@@ -107,3 +107,7 @@ Anss. pwd (should working)
 
 Q. What is .md extension in readme.md ?
 Ans. md stands for markdown. Markdown is a language to output rich formatted text.
+
+Q. What is command prompt?
+Ans. Cmd Prompt is a shell. Or shell is a interface to interact with kernal. Powershell and Gitbash are also shell. Gitbash is better than cmd promt and power shell coz gitbash is linux compatible.
+
