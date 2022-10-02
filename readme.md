@@ -117,3 +117,6 @@ Ans. window+prt and ctrl+v on telegram.
 
 Q. How to run script `test-watch1`?
 Ans. npm run test-watch1
+
+Q. How to rename a variable?
+Ans. Click on variable name and press f2 key.
