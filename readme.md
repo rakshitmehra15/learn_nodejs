@@ -111,3 +111,9 @@ Ans. md stands for markdown. Markdown is a language to output rich formatted tex
 Q. What is command prompt?
 Ans. Cmd Prompt is a shell. Or shell is a interface to interact with kernal. Powershell and Gitbash are also shell. Gitbash is better than cmd promt and power shell coz gitbash is linux compatible.
 
+Q. How to take screenshot and send on telegram?
+Ans. window+prt and ctrl+v on telegram.
+
+
+Q. How to run script `test-watch1`?
+Ans. npm run test-watch1
