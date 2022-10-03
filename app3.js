@@ -49,3 +49,12 @@ app.listen(port, () => {
 })
 
 connect()
+/**
+ * HTTP_Method		Request_Path
+ * GET 				/
+ * GET				/users
+ * POST 			/create
+ * DELETE 			/clear
+ * DELETE 			/clear_one
+ *
+ */

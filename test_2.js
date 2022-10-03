@@ -71,3 +71,13 @@ test('equal to, triple equal is best', async () => {
 
 	expect(received).toBe(expected)
 })
+// 20 celcius = 68F
+// farhenheit = ((9*celcius) /5)) + 32
+
+test('celsius to farhenheit', async () => {
+	let received = 68 //farhenheit
+	let celsius = 20
+	let expected = (9 * celsius) / 5 + 32
+
+	expect(received).toBe(expected)
+})
