@@ -1,4 +1,6 @@
 TASKSTODO:
+    - ? todo - change q/ans. in yaml form for easy parsing for react usage, AMAZING array of arrays, refer this amazing exactly right answer
+      : ENC[AES256_GCM,data:sjfRSR256sDVRZalrVNUdRXETk3YhQaFzqfg/iUsD2WlFk/w3DVOuFIZJoru,iv:J5k+SYRkTR2Anjod5dItJUF9J7a5CadoQ0I7XLz5wJA=,tag:IXZIVNHJMOmw6AXl4La5/w==,type:str]
     - ENC[AES256_GCM,data:+dW3Q8zhLoh5B9lYVDKJWEW+GgXNIGQIH46KHaULpbMb+4T+iskpGwz6wh6It6ogWjGVyRTjg7nAlHRsvD7WTuq2Hj3eiEUBRgqCQiIPknFnFn8kZiuzQ455fojRM8Gt0B6BNs1WNu2ZwcZOKL87AzmLyZCkInaCUQLZQBDczU1fz0ryn4DrwiQGGY5eaxykKRNGcIeNDAewFZkK,iv:fUnYKh4GzohUarMlEqwySEBlcYV4VF4rLe8bkB3NLTc=,tag:UXYRB98DyuIwNNuvKauC0Q==,type:str]
     - ENC[AES256_GCM,data:qk2u44sHRER6XTDD2xZHyInj0yayt/BqDD6FXK3Sx47BLW7/u0fax5d0IEDB50k0KA==,iv:8ruepUiTIwY8yz3I7e4fWwd7V0QTFb+aWZFIETFlsuY=,tag:TGPcDkTp5ns/sPwdC7PWBg==,type:str]
     - ENC[AES256_GCM,data:U2LPcMGaKNyCKfdArgQadvFAIb8mZcA+LoQRyH3hoO4o/ugZ5gE5wbHHAZ5S0t+lpHfs,iv:IVLYnvue+Xgtrq78Vwta3JnAknWCLBQJsu4Eon4qlAo=,tag:OljzjAKRbv+ZIvd+ypS96Q==,type:str]
@@ -23,8 +25,8 @@ sops:
             QVdiaTFKbTduZ1c5MXgvZVZxN1hlV28KQdhhV6JHXF1TSmLHKeqhoEpW1e5uoLHt
             IQ4AKKijGh6fP5wy27VMH6LEO+adS9rA+aYwa4GVa8iOfXKti5Ap2w==
             -----END AGE ENCRYPTED FILE-----
-    lastmodified: "2022-10-03T15:35:54Z"
-    mac: ENC[AES256_GCM,data:F0jzjAvufCOasZErKHc38SmFMwC/wR5ZKCCmYQ2jiFqMnlfnF7leP1+uIMDX3o9DoxkeBnqbrSlKZIMAwgrB3JYs2Yo+l/jIAosSr9XE8kiene79mOpyYHfcxjWQ1JrrUHPNoWp+Xru5Hn6zXmkD5tho+z2VZsKo3Yxsuf1aNxc=,iv:4PiO8DxiaF0Dt16VMx4d5O91d8trY/OtGNz2q24OIPE=,tag:nSOZjESsdiJ8AG+j6v7zPQ==,type:str]
+    lastmodified: "2022-10-03T17:24:24Z"
+    mac: ENC[AES256_GCM,data:u16Ck0Fpi6SpXmsItFKIHTew1kPd2khrkLTELZzzgAWatGB4i7u3y0tT4TI+VC6NFovX8WOonaQ90UcuA0mx3QLr+feniMeiyF9g0eY7oLIMWu7L471HX0iiIZuJoz/YAK1SA/FCR9RCVRSM6Xis2K033d/KfQaD5Nfao8fg9vE=,iv:+1qLEBJUvZTZGLUIhCYLSbPOZR5n0xQZjtforifU+kU=,tag:7ViG0U9k05Mo02seyybdEA==,type:str]
     pgp: []
     unencrypted_suffix: _unencrypted
     version: 3.7.3
