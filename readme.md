@@ -65,8 +65,6 @@ let myUser = '{"name":"Sahil Rajput", "age":25}'
 Q. What are uses of JSON?
 Ans. We need to send JSON data in post requests in postman.
 
-# learn_nodejsQQ
-
 Q. How to push to github? (IMPORTANT)
 Ans. gacp Some meaningful message.
 
