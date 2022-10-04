@@ -132,3 +132,19 @@ Ans. alt + shift + tab (selector goes to left hand side)
 
 Q. How to restore all closed tabs on chrome?
 Ans. ctrl + shift + T
+
+## RAQ - Rarely Asked Questions
+
+Q. How to manage remotes?
+
+```
+# add remote
+git remote add origin git@github.com:negivivek1101/learn_nodejs.git
+
+# remove remote
+git remote rm origin
+
+# view remotes
+git remote -v
+
+```
