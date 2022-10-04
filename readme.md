@@ -123,3 +123,12 @@ Ans. Alt+z (sort to easy readable)
 
 Q. How to select a single line?
 Ans. Ctrl+L
+
+Q. How to switch into 2 screens/windows/applications ultra faast?
+Ans. alt + tab (ONCE (IMPORTANT)) = Goes to right
+
+Q. How to move ur window selector goes to left ?
+Ans. alt + shift + tab (selector goes to left hand side)
+
+Q. How to restore all closed tabs on chrome?
+Ans. ctrl + shift + T
