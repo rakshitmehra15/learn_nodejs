@@ -73,9 +73,6 @@ ans.
 git config --global user.email "negivivek13@gmail.com"
 git config --global user.name "Vivek Negi"
 
-Q. How to set tracking branch?
-git push -u origin main
-
 Q. How to clone a repo?
 Ans. git clone git@github.com:rakshitmehra15/learn_nodejs.git
 
@@ -148,3 +145,6 @@ git remote rm origin
 git remote -v
 
 ```
+
+Q. How to set tracking branch?
+git push -u origin main
