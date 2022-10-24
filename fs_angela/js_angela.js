@@ -43,3 +43,12 @@ function fizzBuzz() {
 	count++
 	console.log(output)
 }
+
+//Who's Buying Lunch? Code Challenge
+function whosPaying(names) {
+	var totalPerson = names.length
+	var randomperson = Math.floor(Math.random() * totalPerson)
+	var random = names[randomperson]
+
+	return random + ' is going to buy lunch today!'
+}
